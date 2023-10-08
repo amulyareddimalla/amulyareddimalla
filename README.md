@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎯I'm an Associate Architect in QE Profession<br>💫I'm 24/7 mommy<br>📚I'm currently learning<br>📩Reach out to me on LinkedIn or amulyakrishna.amul@gmail.com<br>👩‍💻✈️🧳Apart from Testing, Coding I love travelling & exploring
+🎯I'm an Associate Architect in QE Profession<br>💫I'm 24/7 mommy<br>📚 I'm currently learning<br>📩Reach out to me on LinkedIn or amulyakrishna.amul@gmail.com<br>👩‍💻✈️🧳Apart from Testing, Coding I love travelling & exploring
 
 
 ## 🌐 Socials:
