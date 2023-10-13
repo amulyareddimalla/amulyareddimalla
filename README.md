@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎯I'm an Associate Architect in Quality Engineering (QE) Profession<br>💫I'm 24/7 mommy<br>📚I'm currently learning new technologies and believes in continuous upskilling<br>📩Reach out to me on LinkedIn or at amulyakrishna.amul@gmail.com<br>👩‍💻✈️🧳Apart from Testing, Coding I love traveling & exploring
+🎯I'm an Associate Architect in Quality Engineering (QE) Profession working on Salesforce Testing (Automation using Selenium-Python)<br>💫I'm 24/7 mommy<br>📚I'm currently learning new technologies and believes in continuous upskilling<br>📩Reach out to me on LinkedIn or at amulyakrishna.amul@gmail.com<br>👩‍💻✈️🧳Apart from Testing, Coding I love traveling & exploring
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amulya-reddimalla-24528318b/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@amulyareddimalla) 
